@@ -3,3 +3,14 @@
 // @import "dashboard";
 // @import "profile";
 // @import "map";
+
+.wrapper-yelp{
+  width: 500px;
+  margin: 20px auto;
+  text-align: center;
+  a:hover {
+    text-decoration: none;
+    font-weight: bold;
+    color: $light-gray;
+  }
+}

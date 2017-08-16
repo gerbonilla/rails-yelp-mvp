@@ -1,0 +1,13 @@
+.restaurant-card {
+    margin: 17px 0;
+    padding: 30px 40px;
+    border: 1px solid #EEEEEE;
+    border-radius: 10px;
+    &:hover {
+      background-color: rgba(58, 71, 80, 0.15);
+      transition: background-color 300ms ease;
+    }
+    a {
+      text-decoration: none;
+    }
+}

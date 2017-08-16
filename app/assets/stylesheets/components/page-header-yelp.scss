@@ -1,0 +1,13 @@
+.page-header-yelp {
+  margin: 58px 0;
+  a:hover {
+    text-decoration: none;
+    font-weight: bold;
+    color: $light-gray;
+  }
+  p {
+    margin: 0;
+    opacity: 0.6;
+  font-weight: lighter;
+  }
+}
